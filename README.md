@@ -1,2 +1,2 @@
 # JoomShadowbox
-This plugin integrates Shadowbox (http://shadowbox-js.com) into JoomGallery.
+This plugin integrates Shadowbox into JoomGallery. Please respect the licensing agreement on http://shadowbox-js.com.
