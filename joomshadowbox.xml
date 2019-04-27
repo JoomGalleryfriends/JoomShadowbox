@@ -2,12 +2,11 @@
 <extension version="3.0" type="plugin" group="joomgallery" method="upgrade">
   <name>PLG_JOOMGALLERY_JOOMSHADOWBOX</name>
   <author>JoomGallery::ProjectTeam</author>
-  <creationDate>08.04.2013</creationDate>
-  <copyright>Copyright (C) 2012 - 2013 Open Source Matters. All rights reserved.</copyright>
+  <creationDate>2019/04/12</creationDate>
+  <copyright>Copyright (C) 2012 - 2019 Open Source Matters. All rights reserved.</copyright>
   <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
-  <authorEmail>team@joomgallery.net</authorEmail>
-  <authorUrl>www.joomgallery.net</authorUrl>
-  <version>3.0</version>
+  <authorUrl>www.joomgalleryfriends.net</authorUrl>
+  <version>3.1.0</version>
   <description>PLG_JOOMGALLERY_JOOMSHADOWBOX_XML_DESCRIPTION</description>
   <files>
     <filename plugin="joomshadowbox">joomshadowbox.php</filename>
@@ -39,6 +38,6 @@
     </fields>
   </config>
   <updateservers>
-    <server type="collection" priority="1" name="JoomGallery Update Service">http://www.en.joomgallery.net/components/com_newversion/xml/extensions3.xml</server>
+    <server type="collection" priority="1" name="JoomGallery Update Service">https://www.joomgalleryfriends.net/components/com_newversion/xml/extensions3.xml</server>
   </updateservers>
 </extension>
